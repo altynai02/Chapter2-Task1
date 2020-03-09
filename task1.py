@@ -19,7 +19,6 @@ percentage = 100 / full_lenght
 upper_percentage = upper * percentage 
 lower_percentage = lower * percentage
     
-print(full_lenght)
-print(percentage)
+
 print(upper_percentage)
 print(lower_percentage)
